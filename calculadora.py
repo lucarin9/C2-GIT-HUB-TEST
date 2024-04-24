@@ -1,6 +1,8 @@
+#Agregar suma
 def add(x, y):
     return x + y
 
+#Agregar resta
 def subtract(x, y):
     return x - y
 
