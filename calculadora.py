@@ -5,15 +5,15 @@ def add(x, y):
 #Agregar resta
 def subtract(x, y):
     return x - y
-
+#Agregar multiplicacion
 def multiply(x, y):
     return x * y
-
+#Agregar division
 def divide(x, y):
     return x / y
-
+#Seleccion
 print("Select operation.\n1.Add\n2.Subtract\n3.Multiply\n4.Divide\n5.Exit")
-
+#Proceso
 while True:
     choice = input("Enter choice(1/2/3/4/5): ")
 
